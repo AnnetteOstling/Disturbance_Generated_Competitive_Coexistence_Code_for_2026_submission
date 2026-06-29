@@ -10,7 +10,7 @@ There are several folders of code relating to the different model cases describe
 
 "Basic Files" holds a very basic code for the density-dependent reproduction case. 
 
-"Patch-Age" holds a variety of folders with the more detailed model cases (some of which were run on the cluster and make take an indefinite amount of time on a regular computer.
+"Patch-Age" holds a variety of folders with the more detailed model cases (some of which were run on the cluster and may take an indefinite amount of time on a regular computer.
 
 All of the folder have the same basic setup: there are
 - two reproduction functions (one for the resident--species 1--and one for the invader--species 2.  
