@@ -4,8 +4,6 @@
 
 This code is used to simulate either analytical or numerical results for the different models described in the paper.
 
-All figures generated in the main paper and the supplement are labeled as Fig_"Fig#", i.e. "Fig_3b" or "Fig_S1" for supplemental figures.
-
 There are several folders of code relating to the different model cases described. 
 
 "Basic Files" holds a very basic code for the density-dependent reproduction case. 
